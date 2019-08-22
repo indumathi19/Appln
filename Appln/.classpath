@@ -10,7 +10,5 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="C:/Users/a6dmin/Downloads/javax.servlet-api-3.0.1.jar/javax.servlet-api-3.0.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/a6dmin/Downloads/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/a6dmin/Downloads/commons-fileupload-1.4-bin/commons-fileupload-1.4-bin/commons-fileupload-1.4.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
