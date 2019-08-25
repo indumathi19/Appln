@@ -9,7 +9,8 @@
 </head>
 <body>
     <center>
-        <h2>${requestScope.message}</h2>
+        <h2>Upload successfully</h2>
     </center>
+    <a href="ReadFile">Read File</a>
 </body>
 </html>

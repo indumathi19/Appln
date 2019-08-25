@@ -37,6 +37,16 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>UploadServlet</servlet-name>
-    <url-pattern>/UploadServletr</url-pattern>
+    <url-pattern>/UploadServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>ReadFile</display-name>
+    <servlet-name>ReadFile</servlet-name>
+    <servlet-class>ReadFile</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ReadFile</servlet-name>
+    <url-pattern>/ReadFile</url-pattern>
   </servlet-mapping>
 </web-app>
